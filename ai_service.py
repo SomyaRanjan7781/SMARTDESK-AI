@@ -4,7 +4,7 @@ import streamlit as st
 from google import genai
 from google.genai import types
 
-MODEL_NAME = "gemini-3.8-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 SYSTEM_INSTRUCTIONS = """
 You are SmartDesk AI, an assistant for an IT helpdesk.
