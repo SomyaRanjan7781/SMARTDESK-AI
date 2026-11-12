@@ -506,6 +506,12 @@ with st.sidebar:
 
 render_header()
 
+st.info(
+    "💡 Having trouble or is the page not responding? "
+    "Please refresh the app and try again. "
+    "If an analysis is taking time, wait before clicking the button again."
+)
+
 
 # ---------- PERSISTENT GEMINI ERROR ----------
 
